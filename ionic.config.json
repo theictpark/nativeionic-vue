@@ -1,0 +1,8 @@
+{
+  "name": "NativeionicVue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "049fe176"
+}
